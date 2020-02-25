@@ -1,0 +1,11 @@
+.display {
+    background-color: black;
+    color: white;
+    font-size: 36px;
+    line-height: 36px;
+    box-sizing: border-box;
+    padding: 24px;
+    text-align: right;
+    overflow: hidden;
+    text-wrap: none;
+}

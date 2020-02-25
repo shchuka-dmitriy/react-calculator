@@ -1,0 +1,35 @@
+.container {
+    background-color: white;
+    min-width: 320px;
+    overflow: hidden;
+    border-radius: 6px;
+}
+
+td {
+    vertical-align: middle;
+}
+
+td + td {
+    border-left: 1px solid gray;
+}
+
+tr + tr {
+    border-top: 1px solid gray;
+}
+
+.button {
+    box-sizing: border-box;
+    padding: 20px 40px;
+
+    display: inline-block;
+    height: 100%;
+    font-size: 24px;
+}
+
+.equalButton {
+    background-color: #F78967;
+}
+
+.controlButton{
+    background-color: #E9E9E9;
+}

@@ -1,0 +1,10 @@
+body{
+  font-family: 'Oxanium', monospace;
+  font-weight: 500;
+
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background-color: #99DDCC;
+  min-height: 100vh;
+}
